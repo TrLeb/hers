@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308627025834",
+    "project_id": "her-s-fe26e",
+    "storage_bucket": "her-s-fe26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308627025834:android:08f040fd929180fb23c5d3",
+        "android_client_info": {
+          "package_name": "com.tslebang.hers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308627025834-huuqf5752upf4s1guidc0j87t9evfve0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tslebang.hers",
+            "certificate_hash": "445b6f455f6b700c327377188b2734aa87cb087b"
+          }
+        },
+        {
+          "client_id": "308627025834-8bcduou403r3a4ld8vrathckcqjtlupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAismDmGN2Fk7Ikqn9x26mqb8jJD4tGQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308627025834-8bcduou403r3a4ld8vrathckcqjtlupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
